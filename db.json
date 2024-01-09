@@ -1,1 +1,14 @@
-
+{
+    "Posts": [
+         {  "name": "Blake",
+            "posts": "Fuck Deez Bitches Yeemie",
+            "id": 1,
+            "replies": [] 
+        },
+        {   "name": "Slimmy",
+            "posts": "Slob on my knob",
+            "id": 2,
+            "replies": []
+        }  
+    ]
+}
